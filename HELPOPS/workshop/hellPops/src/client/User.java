@@ -7,7 +7,7 @@ public class User {
 	private String username;
 	private String password;
 	private Jeton jeton;
-	private Scanner scanner;
+	private Scanner Scanner;
 	
 	
 	public User(String username, String password) {
